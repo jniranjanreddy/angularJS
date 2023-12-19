@@ -109,3 +109,9 @@ Build at: 2021-10-18T13:30:09.282Z - Hash: a58064426aa184f6ab73 - Time: 2807ms
 
 ✔ Compiled successfully.
 ```
+## Modules
+```
+Karma - Karma is a JavaScript test runner that is used to test Angular applications
+Jasmine - Jasmine is a free as well as an open-source Behavior Driven Development (BDD) framework that tests JavaScript code and also goes well with Karma
+
+```
