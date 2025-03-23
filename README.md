@@ -12,6 +12,19 @@ cd hello-angular
 ng serve --host 192.168.9.100 --port 4200
 
 ```
+## creating projects..
+```
+ng new hotelinventoryapp --createApplication=false
+
+ng new hotelinventoryapp
+```
+
+
+
+
+
+
+
 ```
 [root@minikube01 ~]# npm install -g @angular/cli
 npm WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
