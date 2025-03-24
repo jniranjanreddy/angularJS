@@ -1,6 +1,8 @@
 Installing AngularJS.
 ## https://www.kevinboosten.dev/how-to-use-angular-environment-files-in-your-azure-devops-multi-stage-yml-release-pipeline
 ## https://www.youtube.com/watch?v=9b9pLgaSQuI
+
+## AD authentication - https://www.youtube.com/watch?v=vjpKYSmvRKQ&t=695s
 ```
 curl -sL https://rpm.nodesource.com/setup_12.x | sudo -E bash -
 sudo yum install nodejs
