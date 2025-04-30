@@ -131,3 +131,8 @@ Karma - Karma is a JavaScript test runner that is used to test Angular applicati
 Jasmine - Jasmine is a free as well as an open-source Behavior Driven Development (BDD) framework that tests JavaScript code and also goes well with Karma
 
 ```
+## Healthcare project
+```
+https://www.youtube.com/watch?v=3dHNOWTI7H8
+https://github.com/bradtraversy/angular-crash-2021
+```
